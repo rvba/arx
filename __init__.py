@@ -23,7 +23,6 @@ bl_info = {
     "blender": (2, 6, 4),
     "location": "in various locations ...",
     "description": "architecture render helpfull plugins",
-    "warning": "none",
     "wiki_url": "none",
     "tracker_url": "none",
     "category": "Render"}
